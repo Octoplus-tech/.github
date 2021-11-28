@@ -1,6 +1,6 @@
 ## Hi there 👋
-#W e are Octoplus 
-a open Source Fanatics company
+
+### We are Octoplus 
 
 ![alt text](https://github.com/Octoplus-tech/.github/blob/main/Cover.PNG)
 
